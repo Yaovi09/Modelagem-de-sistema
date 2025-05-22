@@ -1,0 +1,74 @@
+body{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    /*background-color: black;*/
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+    /*background-color: rgb(165, 15, 15);*/
+    display: flex;
+}
+
+.parte1{
+    height: 100%;
+    width: 50%;
+    /*background-color: burlywood;*/
+}
+
+#logo{
+    height: 20%;
+    /*background-color: aqua;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    height: 70px;
+}
+#titulo{
+    height: 5%;
+    /*background-color: blue;*/
+    display: flex;
+    justify-content: center;
+}
+
+#resto{
+    height: 55%;
+    /*background-color: darkgoldenrod;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+ #footer{
+    height: 20%;
+    background-color: brown;
+ }
+.parte2{
+    height: 100%;
+    width: 50%;
+    background-color: chartreuse;
+}
+
+#inpt{
+    height: 35px;
+    width: 250px;
+    margin-top: -20px;
+
+    
+}
+
+button{
+    height: 35px;
+    width: 250px;
+    
+}
+
+#lab{
+    padding-right: 155px;
+}

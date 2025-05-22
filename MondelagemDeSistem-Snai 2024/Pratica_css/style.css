@@ -1,0 +1,126 @@
+body{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+}
+
+.parte1{
+    height: 100%;
+    width: 50%;
+    background-color: #ffff;
+    
+}
+
+.parte2{
+    height: 100%;
+    width: 50%;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #ffff;
+  
+}
+#vazia{
+    height: 10%;
+   /* background-color: aqua;*/
+}
+
+#titulo{
+    height: 10%;
+   /* background-color: blue;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#red{
+    height: 15%;
+    /*background-color: chartreuse;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   gap: 15px;
+    
+}
+
+.caixa{
+    height:40% ;
+    /*background-color: blueviolet;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 100px 0;
+    
+}
+#footer{
+    height: 25%;
+   /* background-color: rgb(177, 90, 8);*/
+}
+
+img{
+    height: 50px;
+
+}
+#titulo3{
+   
+    font-size: 30px;
+  
+}
+
+#text{
+    margin: 10px 0 35px 0;
+}
+
+#butt{
+    height: 40px;
+    width: 120px;
+    border-radius: 25px ;
+    border: #dfd7d7 1px solid;
+    color: #ffff;
+    background-color: red;
+    
+    
+}
+
+#inpt-caixa{
+    height: 30px;
+    width: 250px;
+    margin: 10px 0 5px 0px;
+}
+#but{
+    height: 40px;
+    width: 140px;
+    margin: 5px 0 10px 0;
+    border-radius: 25px;
+    border: #dfd7d7 1px solid;
+    color: #ffff;
+    background-color: red;
+}
+#lab{
+    margin: 5px 0 10px 0;
+}
+
+
+::placeholder{
+    font-weight: bold;
+    color: rgb(104, 99, 99);
+    padding-left: 12px;
+}
+
+input{
+    background-color: rgb(172, 163, 163);
+border: 0;
+}

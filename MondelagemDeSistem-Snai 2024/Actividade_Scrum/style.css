@@ -1,0 +1,110 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    
+   
+    
+}
+header{
+    width: 100%;
+    height: 200px;
+    /*background-color: black;*/
+    display: flex;
+}
+
+#lo{
+    /*height: 90px;*/
+   height: 100px;
+}
+#title{
+    font-size: 35px;
+    color: rgb(18, 151, 73);
+}
+
+#corpo{
+    width: 100%;
+    height: 400px;
+   
+}
+
+#conteudo{
+    height: 100%;
+    width: 100%;
+    margin-left: 72px;
+    
+    display: flex;
+    
+}
+
+#parte1{
+    height: 100%;
+    width: 50%;
+    
+}
+#text1{
+    font-size: 160px;
+    font-family: serif;
+    color: green;
+}
+
+#text2{
+    font-size: 55px;
+    padding-left: 45px;
+    font-family:  serif;
+    color: green;
+}
+
+#text3{
+   padding-left: 35px;
+   font-size: 20px;
+   font-family: 'Courier New', Courier, monospace;
+    color: rgb(13, 14, 13);
+}
+strong{
+    font-family: 'Courier New', Courier, monospace;
+}
+#login{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+    gap: 52px;
+    margin-top: 32px;
+    
+}
+
+button{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    height: 60px;
+    width: 200px;
+    font-weight: bold;
+    outline: none;
+    background-color: rgb(14, 129, 24);
+    color: #ffff;
+    border: solid 1px rgb(241, 238, 238);
+    cursor: pointer;
+    
+
+}
+
+#imagem{
+   height: 100%;
+   width: 50%;
+   
+ 
+}
+#lixo{
+    height: 100%;
+    width: 50%;
+    
+}

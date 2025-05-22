@@ -1,0 +1,38 @@
+ 	FICHA Software - Modelagem de Sistemas
+
+1/ Software Analisado/Versão
+ Microsoft Office 365/ Versão 2408 lançando em 26 de Agosto de 2024
+
+2/ Empresa Desenvolvedora
+
+
+3/ Data de Lançamento(primeira versão)
+   1975
+
+4/ Documentação
+https://www.microsoft.com/pt-br/microsoft-365/nonprofit
+
+5/ Descrição
+
+O Microsoft 365, anteriormente conhecido como Office 365, é uma plataforma de produtividade baseada na nuvem que oferece uma variedade de ferramentas e serviços para empresas e indivíduos. Aqui estão alguns dos principais recursos:
+
+Aplicativos de Produtividade: Inclui versões baseadas na nuvem de aplicativos populares como Word, Excel, PowerPoint, Outlook e OneNote1
+
+Colaboração e Comunicação: Ferramentas como Microsoft Teams, SharePoint e OneDrive permitem colaboração em tempo real e armazenamento seguro de arquivos
+
+Segurança e Conformidade: Oferece recursos robustos de segurança e conformidade para proteger dados e garantir a conformidade com regulamentos
+
+Atualizações Contínuas: Os assinantes recebem atualizações regulares de recursos e melhorias de segurança.
+
+6/ Funcionalidades
+
+.Organize sua vida com o Outlook
+.Análise dados com o Excel
+.Crie apresentações impactantes no PowerPoint
+.Criar e compartilhar documentos
+.Gerenciar e-mails
+.Realizar videoconferências
+.Armazenar arquivos
+.Tornar suas reuniões mais interessantes
+.Gerar relatórios de desempenho do seu negócio
+.Acompanhar as atividades da sua equipe e muito mais.
