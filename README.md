@@ -1,2 +1,2 @@
 # Modelagem-de-sistema
-Repositor pra Testes
+Repositor para Testes
